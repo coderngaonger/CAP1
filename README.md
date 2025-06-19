@@ -87,4 +87,4 @@ DBMS: Microsoft SQL Server
 
 Visualization: Power BI, Tableau
 
-Web: Flask / (or other framework depending on final deployment)
+Web: Streamlit
